@@ -1,3 +1,9 @@
+# Portable YT-DLP Wrapper
+
+## Project summary
+A portable Windows batch script to download YouTube videos or playlists as MP3 audio.  
+Requires **yt-dlp.exe** and **ffmpeg.exe** (place them in `/bin`). NVDA-friendly and simple to use.
+          
 # Portable YouTube Audio Downloader (yt-dlp + ffmpeg)
 
 ## What this project **is**
